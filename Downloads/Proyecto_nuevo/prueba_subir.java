@@ -3,6 +3,10 @@ public static void main(String[] args) {
         // Entrada de datos     
         Scanner scanner = new Scanner(System.in);
 
+
+
+
+        
         // 1. MÓDULO DE INGRESO Y VALIDACIÓN
         String nombre = leerTexto(scanner);
         int horas = leerEnteroPositivo(scanner);
