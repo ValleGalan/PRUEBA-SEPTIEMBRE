@@ -3,9 +3,6 @@ public static void main(String[] args) {
         // Entrada de datos     
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("=== SISTEMA DE CÁLCULO DE SALARIO ===");
-        System.out.print("=== SISTEMA DE CÁLCULO DE SALARIO ===");
-
         // 1. MÓDULO DE INGRESO Y VALIDACIÓN
         String nombre = leerTexto(scanner);
         int horas = leerEnteroPositivo(scanner);
